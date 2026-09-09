@@ -17,3 +17,7 @@ venv/
 
 # OS
 .DS_Store
+
+# Social/promo drafts and helpers, kept local only
+reports/linkedin/
+src/utils/prep_banner.py
