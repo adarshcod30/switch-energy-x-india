@@ -7,8 +7,12 @@
 [![Competition](https://img.shields.io/badge/Kaggle-SWITCH%20ENERGY--X%20(INDIA)-20BEFF)](https://www.kaggle.com/competitions/switch-energy-x-india)
 [![Private LB](https://img.shields.io/badge/private%20LB-11th%20%2F%2093-blue)](https://www.kaggle.com/competitions/switch-energy-x-india/leaderboard)
 [![RMSE](https://img.shields.io/badge/private%20RMSE-0.48008-brightgreen)](.)
+[![Notebook](https://img.shields.io/badge/Kaggle-notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/adarshcod/switch-energy-x-recovering-the-hidden-physics)
+[![Profile](https://img.shields.io/badge/Kaggle-%40adarshcod-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/adarshcod)
 [![Python](https://img.shields.io/badge/python-3.11%2B-3776AB)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+[**Kaggle Notebook**](https://www.kaggle.com/code/adarshcod/switch-energy-x-recovering-the-hidden-physics) &nbsp;·&nbsp; [**Competition**](https://www.kaggle.com/competitions/switch-energy-x-india) &nbsp;·&nbsp; [**Kaggle Profile**](https://www.kaggle.com/adarshcod)
 
 **Keywords:** `inverse-problems` · `system-identification` · `unsupervised-learning` · `symbolic-regression` · `method-of-moments` · `missing-data-imputation` · `energy-systems` · `photovoltaics` · `microgrid` · `kaggle`
 
@@ -306,6 +310,9 @@ The best-guess closed form and full post-mortem: **[docs/RECOVERED_EQUATION.md](
 ├── LICENSE
 ├── requirements.txt
 ├── .gitignore
+├── notebooks/
+│   ├── switch-energy-x-recovering-the-hidden-physics.ipynb   # published Kaggle notebook
+│   └── kernel-metadata.json        # Kaggle kernel push config
 ├── docs/
 │   ├── METHODOLOGY.md              # measurement framework, in depth
 │   ├── FEATURE_DICTIONARY.md       # every recovered identity
@@ -530,9 +537,11 @@ own terms.
 ## Contact
 
 **Adarsh Dwivedi**
-GitHub: [@adarshcod30](https://github.com/adarshcod30)
 
-Competition: [SWITCH ENERGY-X (INDIA): Hidden Energy Systems Challenge](https://www.kaggle.com/competitions/switch-energy-x-india)
+- GitHub — [@adarshcod30](https://github.com/adarshcod30)
+- Kaggle — [@adarshcod](https://www.kaggle.com/adarshcod)
+- Notebook — [SWITCH ENERGY-X: Recovering the Hidden Physics](https://www.kaggle.com/code/adarshcod/switch-energy-x-recovering-the-hidden-physics)
+- Competition — [SWITCH ENERGY-X (INDIA): Hidden Energy Systems Challenge](https://www.kaggle.com/competitions/switch-energy-x-india)
 
 ---
 

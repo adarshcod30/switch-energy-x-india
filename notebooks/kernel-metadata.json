@@ -1,0 +1,15 @@
+{
+  "id": "adarshcod/switch-energy-x-recovering-the-hidden-physics",
+  "title": "SWITCH ENERGY-X: Recovering the Hidden Physics",
+  "code_file": "switch-energy-x-recovering-the-hidden-physics.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "competition_sources": [
+    "switch-energy-x-india"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": []
+}
