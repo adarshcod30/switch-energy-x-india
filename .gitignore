@@ -1,0 +1,19 @@
+# Competition data (redistribution restricted by competition rules)
+data/
+
+# Large intermediates: imputed matrices, measurement vectors, cached spans
+artifacts/
+
+# Every generated submission file (~680 MB)
+subs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store

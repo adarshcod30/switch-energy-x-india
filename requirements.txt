@@ -1,0 +1,13 @@
+# Core numerics and data handling
+numpy>=2.0
+pandas>=2.2
+pyarrow>=15.0          # parquet caching of imputed feature matrices
+scipy>=1.13            # distribution tests in structure discovery
+
+# Modelling
+lightgbm>=4.5          # self-supervised feature imputation
+scikit-learn>=1.5      # KFold for out-of-fold imputation audits
+
+# Competition I/O
+kaggle>=1.6            # submission + leaderboard CLI
+kagglehub>=0.3         # dataset download
