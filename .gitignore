@@ -21,3 +21,10 @@ venv/
 # Social/promo drafts and helpers, kept local only
 reports/linkedin/
 src/utils/prep_banner.py
+
+# local agent and editor files, never committed
+.claude/
+.claude.json
+CLAUDE.local.md
+CLAUDE.md
+AGENTS.md
