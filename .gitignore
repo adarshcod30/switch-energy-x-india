@@ -21,3 +21,9 @@ venv/
 # Social/promo drafts and helpers, kept local only
 reports/linkedin/
 src/utils/prep_banner.py
+
+# secrets, build output and local noise
+.env
+.env.local
+*.log
+.pytest_cache/
